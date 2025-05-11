@@ -3,8 +3,6 @@
 
 A responsive landing page built with **React** and styled using **Tailwind CSS** and **Flowbite**. Clean, modern, and fully responsive — perfect as a base for marketing pages, SaaS apps, or personal projects.
 
-<img src="./landing-page.png">
-
 ---
 
 ## ✨ Features
@@ -36,6 +34,7 @@ cd react-landing-page
 npm install
 ````
 
+![screenshot](./landing-page.png)
 Start the development server:
 
 ```bash
