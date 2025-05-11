@@ -3,7 +3,7 @@
 
 A responsive landing page built with **React** and styled using **Tailwind CSS** and **Flowbite**. Clean, modern, and fully responsive — perfect as a base for marketing pages, SaaS apps, or personal projects.
 
-![screenshot](./landing-page.png)
+<img src="./landing-page.png">
 
 ---
 
